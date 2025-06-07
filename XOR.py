@@ -2,7 +2,6 @@ from Dense import Dense
 from hyperbolicTangent import Tanh
 from meanSquare import meanSquaredError, derivativeMeanSquared
 import numpy as np
-import matplotlib.pyplot as plt
 
 # A XOR table is that which includes two values of 0 or 1 in which the input of the same value at one time returns a 0,
 # while a unique set of inputs returns a 1
