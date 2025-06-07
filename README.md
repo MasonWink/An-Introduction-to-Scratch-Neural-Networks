@@ -8,7 +8,7 @@ The guide should be followed in the order of:
 - meanSquare
 - XOR
 There're also two math files containing images that walkthrough the math necessary to find any calculated variable.
-Despite this, it's recommended that you're familiar with linear regression, some topics in Calc III, basic python and numpy, and have some familiarity with matrices.
+Despite this, it's recommended that you're familiar some topics in Calc III, basic python and numpy, and have some familiarity with matrices.
 
 If you have any suggestions, feel free to let me know!
 Thank you!
