@@ -7,6 +7,7 @@ The guide should be followed in the order of:
 - hyperbolicTangent
 - meanSquare
 - XOR
+
 There're also two math files containing images that walkthrough the math necessary to find any calculated variable.
 Despite this, it's recommended that you're familiar some topics in Calc III, basic python and numpy, and have some familiarity with matrices.
 
